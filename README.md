@@ -1,89 +1,78 @@
-# <h1 align="center">Hi 👋, I'm Yachana Choudhary</h1>
+# Advanced GitHub Profile README
 
-<h3 align="center">
-Data Science & Analytics Graduate | Data Analyst | Data Scientist | Machine Learning Enthusiast
-</h3>
+````markdown
+<!-- ===================================================== -->
+<!--                 ANIMATED HEADER                       -->
+<!-- ===================================================== -->
 
-<p align="center">
-Turning data into meaningful insights through analytics, visualization, and machine learning.
-</p>
+<div align="center">
 
-<p align="center">
+<img src="./assets/banner.gif" width="100%"/>
+
+# Hi there 👋 I'm **Yachana Choudhary**
+
+### Data Scientist • Data Analyst • Business Intelligence • Machine Learning • Generative AI
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Turning+Data+into+Business+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Data+Engineering+%7C+Analytics+%7C+Generative+AI;Always+Learning+Something+New+🚀" />
+
+<p>
+
 <a href="https://github.com/yachanachoudhary">
-<img src="https://komarev.com/ghpvc/?username=yachanachoudhary&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=yachanachoudhary&label=Profile+Views&color=blue&style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/yachanachoudhary?tab=followers">
-<img src="https://img.shields.io/github/followers/yachanachoudhary?label=Followers&style=social" />
+<img src="https://img.shields.io/github/followers/yachanachoudhary?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/yachanachoudhary">
-<img src="https://img.shields.io/github/stars/yachanachoudhary?affiliations=OWNER&style=social" />
+<img src="https://img.shields.io/github/stars/yachanachoudhary?style=for-the-badge"/>
 </a>
 
 </p>
 
+</div>
+
 ---
 
-# 👩‍💻 About Me
+# 👩 About Me
 
-🎓 MSc Data Science & Analytics Graduate
+<img align="right" width="350" src="./assets/data.gif">
 
-📊 Passionate about solving business problems using Data Analytics, Business Intelligence, Machine Learning, and Generative AI.
+🎓 MSc in Data Science & Analytics
 
-💡 I enjoy building end-to-end data solutions—from ETL pipelines and data warehouses to interactive dashboards and predictive machine learning models.
+💻 Passionate about solving real-world business problems using data.
 
-🚀 Interested in
+📈 Experienced in:
 
 - Data Analytics
 - Business Intelligence
-- Data Engineering
 - Machine Learning
+- ETL Pipelines
+- Data Warehousing
+- SQL Analytics
+- Dashboard Development
 - Generative AI
-- Data Visualization
 
 🌱 Currently Learning
 
-- Advanced SQL
-- Deep Learning
 - Azure Data Engineering
 - MLOps
+- Deep Learning
+- Distributed Systems
 - LLM Applications
 
-🎯 Career Goal
+🎯 2026 Goal
 
-To build scalable data-driven solutions that help organizations make better business decisions.
-
----
-
-# 💼 Experience
-
-### HR & Data Analytics Intern
-**Med Tour Easy**
-
-- Automated KPI extraction using Python
-- Performed HR analytics
-- Cleaned and analyzed real-world datasets
-- Reduced manual reporting effort
-
----
-
-### Research Intern
-**Global Campus, JAIN (Deemed-to-be University)**
-
-- GNSS Data Analysis
-- Statistical Analysis
-- Python
-- Data Cleaning
-- Technical Research
+Become a Data Scientist building AI-powered products that create measurable business impact.
 
 ---
 
 # 🛠 Tech Stack
 
-## Programming
+## Languages
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite"/>
 
@@ -91,61 +80,103 @@ To build scalable data-driven solutions that help organizations make better busi
 
 ---
 
-## Data Analysis
+## Data Analytics
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy"/>
 
 </p>
 
-- Pandas
-- NumPy
-- Statistics
-- Data Wrangling
-- Hypothesis Testing
+Python
+
+SQL
+
+Statistics
+
+EDA
+
+Data Wrangling
+
+Feature Engineering
+
+Hypothesis Testing
 
 ---
 
 ## Machine Learning
 
-- Scikit-learn
-- TensorFlow
-- NLP
-- Predictive Modelling
-- Time Series Forecasting
-- Generative AI
-- RAG
-- FAISS
+Scikit-Learn
+
+TensorFlow
+
+XGBoost
+
+NLP
+
+Time Series
+
+RAG
+
+FAISS
+
+LLMs
+
+Forecasting
+
+Classification
+
+Regression
+
+Clustering
 
 ---
 
-## Business Intelligence
+## BI Tools
 
-- Power BI
-- Tableau
-- Excel
-- Dashboard Design
+Power BI
+
+Tableau
+
+Excel
+
+DAX
+
+Power Query
+
+Dashboard Design
 
 ---
 
 ## Data Engineering
 
-- ETL
-- Data Warehousing
-- Star Schema
-- Data Modelling
-- SQL Optimization
+ETL
+
+Data Warehouse
+
+Star Schema
+
+Snowflake Schema
+
+SQLite
+
+MySQL
+
+Data Validation
 
 ---
 
 ## Tools
 
-<p>
+Git
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
+GitHub
 
-</p>
+VS Code
+
+Jupyter Notebook
+
+Google Colab
 
 ---
 
@@ -153,174 +184,230 @@ To build scalable data-driven solutions that help organizations make better busi
 
 ---
 
-## 🏪 Retail Data Warehouse & BI Reporting Pipeline
+# 🏪 Retail Data Warehouse & BI Reporting Pipeline
 
-Enterprise-scale ETL and Data Warehousing project built using Python and SQL.
+<img src="./assets/retail-dashboard.png"/>
 
-### Highlights
+### Overview
 
-- ⭐ Enterprise Star Schema
-- ⭐ Python ETL
-- ⭐ SQL Analytics
-- ⭐ Tableau Dashboard
-- ⭐ Data Quality Testing
-- ⭐ 100K+ Records
-
-**Tech Stack**
-
-Python • SQL • SQLite • Tableau
-
-📷 Add Dashboard Screenshot Here
-
----
-
-## 📈 Walmart Sales Forecasting
-
-Sales forecasting using statistical and machine learning models.
+Enterprise-scale ETL Pipeline built using Python and SQL from 100K+ eCommerce records.
 
 ### Highlights
 
-- Power BI Dashboard
-- Prophet
-- SARIMAX
-- Time Series Forecasting
-- Feature Engineering
-- Business Insights
+✔ Star Schema
 
-📷 Add Dashboard Screenshot Here
+✔ ETL Automation
 
----
+✔ Data Validation
 
-## 🤖 Bias Aware Resume Screening
+✔ SQL Analytics
 
-Machine Learning project focused on ethical AI.
+✔ Tableau Dashboard
 
-### Features
+✔ KPI Reporting
 
-- Resume Classification
-- NLP
-- Fair AI
-- Machine Learning
-- Explainable AI
+### Tech
 
-📷 Add Screenshot Here
+Python
 
----
+SQL
 
-## ❤️ Health Lifestyle Analytics
+SQLite
 
-Analytics dashboard developed using Kaggle dataset.
+Tableau
 
-### Features
-
-- Data Cleaning
-- Dashboard
-- Interactive Visualizations
-- Business Insights
-
-📷 Add Screenshot Here
+Git
 
 ---
 
-## 💬 Enterprise Knowledge Assistant
+# 📈 Walmart Sales Forecasting
 
-Retrieval Augmented Generation (RAG) application.
+<img src="./assets/walmart.gif"/>
 
-### Technologies
+Forecasting weekly revenue using statistical and machine learning models.
 
-- Python
-- LangChain
-- FAISS
-- LLM
-- Semantic Search
+✔ Prophet
 
-📷 Add Screenshot Here
+✔ SARIMAX
 
----
+✔ Power BI
 
-# 📚 Certifications
+✔ Forecast Accuracy
 
-- Machine Learning with Python
-- Probability Theory for Data Science
-- Understanding & Visualizing Data with Python
-- Data Analysis with R
-- HackerRank SQL (Advanced)
+✔ Time Series
 
 ---
 
-# 📈 GitHub Analytics
+# 🤖 Bias Aware Resume Screening
 
-<p align="center">
+<img src="./assets/resume.png"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=yachanachoudhary&show_icons=true&theme=tokyonight"/>
+Machine Learning project for fair resume evaluation.
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yachanachoudhary&layout=compact&theme=tokyonight"/>
+✔ NLP
 
-</p>
+✔ Explainable AI
 
----
+✔ Classification
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yachanachoudhary&theme=tokyonight"/>
-
-</p>
+✔ Fairness Metrics
 
 ---
 
-<p align="center">
+# ❤️ Health Lifestyle Analytics
+
+<img src="./assets/health.png"/>
+
+Interactive Business Dashboard
+
+✔ Power BI
+
+✔ SQL
+
+✔ KPI Analysis
+
+✔ Data Visualization
+
+---
+
+# 💬 Enterprise Knowledge Assistant
+
+<img src="./assets/rag.gif"/>
+
+Enterprise RAG chatbot using LLMs.
+
+✔ LangChain
+
+✔ FAISS
+
+✔ Semantic Search
+
+✔ OpenAI
+
+✔ Retrieval Augmented Generation
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yachanachoudhary&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yachanachoudhary&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yachanachoudhary&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yachanachoudhary&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yachanachoudhary&theme=algolia&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Snake
+
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yachanachoudhary&theme=tokyonight&row=1&column=7"/>
+<img src="https://raw.githubusercontent.com/yachanachoudhary/yachanachoudhary/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
 ---
 
-# 📂 Currently Working On
+# 📚 Certifications
 
-- Data Warehousing
-- Data Engineering
-- Machine Learning
-- Time Series Forecasting
-- Business Intelligence Dashboards
-- Generative AI Applications
+🏅 Machine Learning with Python
+
+🏅 Probability Theory for Data Science
+
+🏅 Data Analysis with R
+
+🏅 Understanding & Visualizing Data
+
+🏅 HackerRank SQL (Advanced)
 
 ---
 
-# 🤝 Let's Connect
+# 🌟 Current Focus
+
+```text
+Building scalable Data Engineering pipelines
+███████████████████░ 95%
+
+Advanced SQL
+█████████████████░░ 90%
+
+Machine Learning
+████████████████░░░ 85%
+
+Power BI
+██████████████████░ 92%
+
+Generative AI
+███████████████░░░░ 80%
+````
+
+---
+
+# 📬 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/yachana-choudhary/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
 <a href="mailto:yachanachoudhary8@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
 </a>
 
 <a href="https://github.com/yachanachoudhary">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 💡 Favorite Quote
 
-> "Without data, you're just another person with an opinion." — W. Edwards Deming
+> "The goal is to turn data into information, and information into insight."
 
 ---
 
-⭐ If you like my work, consider starring my repositories!
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**If you like my work, don't forget to star my repositories!**
+
+</div>
+```
