@@ -4,7 +4,7 @@
 
 ### Data Analyst · BI Developer · ML/GenAI Enthusiast
 
-I turn messy data into decisions — through analytics, dashboards, forecasting models, and GenAI applications.
+I turn messy data into decisions  through analytics, dashboards, forecasting models, and GenAI applications.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-datascienceportfol.io-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://datascienceportfol.io/anayachu1432)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yachana-choudhary/)
