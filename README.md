@@ -51,7 +51,6 @@ I turn messy data into decisions — through analytics, dashboards, forecasting 
 `RAG` `FAISS` `LangChain` `LLMs` `Semantic Search`
 
 **Business Intelligence**
-<br>
 `Advanced Excel` `Dashboard Design`
 
 **Data Engineering & Tools**
