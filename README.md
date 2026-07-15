@@ -1,244 +1,101 @@
-# <h1 align="center">Hi 👋, I'm Yachana Choudhary</h1>
+<div align="center">
 
-<h3 align="center">
-Data Science & Analytics Graduate | Data Analyst | Data Scientist | Machine Learning Enthusiast
-</h3>
+# Hi, I'm Yachana Choudhary 👋
 
-<p align="center">
-Turning data into meaningful insights through analytics, visualization, and machine learning.
-</p>
+### Data Analyst · BI Developer · ML/GenAI Enthusiast
 
-<p align="center">
-<a href="https://github.com/yachanachoudhary">
-<img src="https://komarev.com/ghpvc/?username=yachanachoudhary&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
+I turn messy data into decisions — through analytics, dashboards, forecasting models, and GenAI applications.
 
-<a href="https://github.com/yachanachoudhary?tab=followers">
-<img src="https://img.shields.io/github/followers/yachanachoudhary?label=Followers&style=social" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-datascienceportfol.io-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://datascienceportfol.io/anayachu1432)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yachana-choudhary/)
+[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yachanachoudhary8@gmail.com)
 
-<a href="https://github.com/yachanachoudhary">
-<img src="https://img.shields.io/github/stars/yachanachoudhary?affiliations=OWNER&style=social" />
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=yachanachoudhary&label=Profile%20Views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/yachanachoudhary?label=Followers&style=social)
 
-</p>
+</div>
 
 ---
 
-# 👩‍💻 About Me
+## 🧭 About Me
 
-🎓 MSc Data Science & Analytics Graduate
-
-📊 Passionate about solving business problems using Data Analytics, Business Intelligence, Machine Learning, and Generative AI.
-
-💡 I enjoy building end-to-end data solutions—from ETL pipelines and data warehouses to interactive dashboards and predictive machine learning models.
-
-🚀 Interested in
-
-- Data Analytics
-- Business Intelligence
-- Data Engineering
-- Machine Learning
-- Generative AI
-- Data Visualization
-
-🌱 Currently Learning
-
-- Advanced SQL
-- Deep Learning
-- Azure Data Engineering
-- MLOps
-- LLM Applications
-
-🎯 Career Goal
-
-To build scalable data-driven solutions that help organizations make better business decisions.
+- 🎓 M.Sc. Data Science & Analytics, Jain (Deemed-to-be) University, Bengaluru — Class of 2026
+- 🔬 B.Sc. Physics background — Sambalpur University
+- 📊 I build end-to-end data solutions: ETL pipelines → warehouses → dashboards → ML/GenAI models
+- 🎯 Actively looking for **Data Analyst, BI Analyst, and ML/AI Engineer** roles
+- 🌱 Currently sharpening: Advanced SQL, MLOps, and LLM application design
+- 🏆 Currently competing in **Kaggle Playground Series S6E7** (Predicting Student Health Risk)
 
 ---
 
-# 💼 Experience
+## 🛠️ Tech Stack
 
-### HR & Data Analytics Intern
-**Med Tour Easy**
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- Automated KPI extraction using Python
-- Performed HR analytics
-- Cleaned and analyzed real-world datasets
-- Reduced manual reporting effort
+**Languages & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite" />
 
----
+**Data Analysis**
+`Pandas` `NumPy` `Statistics` `Hypothesis Testing` `Data Wrangling`
 
-### Research Intern
-**Global Campus, JAIN (Deemed-to-be University)**
+**Machine Learning**
+`Scikit-learn` `LightGBM` `NLP` `Prophet` `SARIMAX` `Time Series Forecasting`
 
-- GNSS Data Analysis
-- Statistical Analysis
-- Python
-- Data Cleaning
-- Technical Research
+</td>
+<td valign="top" width="50%">
 
----
+**Generative AI**
+`RAG` `FAISS` `LangChain` `LLMs` `Semantic Search`
 
-# 🛠 Tech Stack
+**Business Intelligence**
+<br>
+<img src="https://skillicons.dev/icons?i=powerbi,tableau" />
+`Advanced Excel` `Dashboard Design`
 
-## Programming
+**Data Engineering & Tools**
+`ETL` `Star Schema` `Data Warehousing` `SQL Optimization`
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite"/>
-
-</p>
-
----
-
-## Data Analysis
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=pandas,numpy"/>
-
-</p>
-
-- Pandas
-- NumPy
-- Statistics
-- Data Wrangling
-- Hypothesis Testing
+</td>
+</tr>
+</table>
 
 ---
 
-## Machine Learning
+## 🚀 Featured Projects
 
-- Scikit-learn
-- TensorFlow
-- NLP
-- Predictive Modelling
-- Time Series Forecasting
-- Generative AI
-- RAG
-- FAISS
+| Project | Description | Stack |
+|---|---|---|
+| 🏪 **[Retail Data Warehouse & BI Reporting Pipeline](https://github.com/yachanachoudhary/retail-data-warehouse)** | Enterprise-scale ETL pipeline on the Olist dataset — star schema, automated data quality test suite, 100K+ records | `Python` `SQL` `SQLite` `Tableau` |
+| 💬 **[GenAI Enterprise Knowledge Assistant (RAG)](https://github.com/yachanachoudhary/GenAI-Enterprise-Knowledge-Assistant-RAG-)** | Retrieval-Augmented Generation app for semantic document Q&A | `Python` `LangChain` `FAISS` `LLM` |
+| 📈 **[Walmart Store Weekly Sales Analysis](https://github.com/yachanachoudhary/walmart_store_weekly_analysis)** | Statistical + ML forecasting with feature engineering and business insights, visualized in Power BI | `Prophet` `SARIMAX` `Power BI` |
+| 🤖 **[Bias-Aware Resume Screening](https://github.com/yachanachoudhary/Bias_Aware_Resume_Screening)** | Fair, explainable resume classifier addressing algorithmic bias | `TF-IDF` `Logistic Regression` `Streamlit` |
+| 🩻 **[Cancer Data Diagnostic Modeling](https://github.com/yachanachoudhary/cancer-data-diagnostic-modeling)** | Diagnostic classification modeling on medical data | `Python` `scikit-learn` |
+| 🏋️ **[Fitness Data Decision Support](https://github.com/yachanachoudhary/fitness-data-decision-support)** | Decision-support analytics built on fitness/lifestyle data | `Python` `Jupyter` |
+| ❤️ **[Health Lifestyle Analytics](https://github.com/yachanachoudhary/health-lifestyle-analytics)** | Interactive dashboard uncovering lifestyle-health patterns from Kaggle data | `Python` `Dashboarding` |
+| 📢 **[Programmatic Advertising Performance Analytics](https://github.com/yachanachoudhary/Programmatic-Advertising-Performance-Analytics)** | ROAS and attribution-window analysis using CTEs | `SQL` `Python` |
+| 📉 **[Hyperliquid Sentiment Analysis](https://github.com/yachanachoudhary/Hyperliquid-Sentiment-Analysis)** | Sentiment analysis on crypto market data | `Python` `NLP` |
+| 🩺 **Kaggle Playground S6E7 — Student Health Risk** *(in progress)* | LightGBM baseline with 5-fold StratifiedKFold + balanced class weighting, paired with an interactive Plotly dashboard | `LightGBM` `Plotly` `scikit-learn` |
 
----
-
-## Business Intelligence
-
-- Power BI
-- Tableau
-- Excel
-- Dashboard Design
+> Swap in dashboard screenshots under each repo for extra impact. `research-project` is kept private and isn't linked here.
 
 ---
 
-## Data Engineering
+## 💼 Experience
 
-- ETL
-- Data Warehousing
-- Star Schema
-- Data Modelling
-- SQL Optimization
+**HR & Data Analytics Intern** — Med Tour Easy *(Remote)*
+Automated KPI extraction with Python, ran HR analytics, cleaned real-world datasets, and cut manual reporting effort.
 
----
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
-
-</p>
+**Research Intern** — Global Campus, JAIN (Deemed-to-be University)
+GNSS data analysis and statistical research using Python.
 
 ---
 
-# 🚀 Featured Projects
-
----
-
-## 🏪 Retail Data Warehouse & BI Reporting Pipeline
-
-Enterprise-scale ETL and Data Warehousing project built using Python and SQL.
-
-### Highlights
-
-- ⭐ Enterprise Star Schema
-- ⭐ Python ETL
-- ⭐ SQL Analytics
-- ⭐ Tableau Dashboard
-- ⭐ Data Quality Testing
-- ⭐ 100K+ Records
-
-**Tech Stack**
-
-Python • SQL • SQLite • Tableau
-
-📷 Add Dashboard Screenshot Here
-
----
-
-## 📈 Walmart Sales Forecasting
-
-Sales forecasting using statistical and machine learning models.
-
-### Highlights
-
-- Power BI Dashboard
-- Prophet
-- SARIMAX
-- Time Series Forecasting
-- Feature Engineering
-- Business Insights
-
-📷 Add Dashboard Screenshot Here
-
----
-
-## 🤖 Bias Aware Resume Screening
-
-Machine Learning project focused on ethical AI.
-
-### Features
-
-- Resume Classification
-- NLP
-- Fair AI
-- Machine Learning
-- Explainable AI
-
-📷 Add Screenshot Here
-
----
-
-## ❤️ Health Lifestyle Analytics
-
-Analytics dashboard developed using Kaggle dataset.
-
-### Features
-
-- Data Cleaning
-- Dashboard
-- Interactive Visualizations
-- Business Insights
-
-📷 Add Screenshot Here
-
----
-
-## 💬 Enterprise Knowledge Assistant
-
-Retrieval Augmented Generation (RAG) application.
-
-### Technologies
-
-- Python
-- LangChain
-- FAISS
-- LLM
-- Semantic Search
-
-📷 Add Screenshot Here
-
----
-
-# 📚 Certifications
+## 📚 Certifications
 
 - Machine Learning with Python
 - Probability Theory for Data Science
@@ -248,79 +105,41 @@ Retrieval Augmented Generation (RAG) application.
 
 ---
 
-# 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=yachanachoudhary&show_icons=true&theme=tokyonight"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=yachanachoudhary&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yachanachoudhary&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yachanachoudhary&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yachanachoudhary&theme=tokyonight&hide_border=true"/>
 
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yachanachoudhary&theme=tokyo-night&hide_border=true"/>
 
----
+</div>
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yachanachoudhary&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yachanachoudhary&theme=tokyonight&row=1&column=7&margin-w=8"/>
 
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yachanachoudhary&theme=tokyo-night"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yachanachoudhary&theme=tokyonight&row=1&column=7"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yachana-choudhary/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yachanachoudhary8@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://datascienceportfol.io/anayachu1432)
 
-</p>
+</div>
 
----
+<div align="center">
 
-# 📂 Currently Working On
+*"Without data, you're just another person with an opinion." — W. Edwards Deming*
 
-- Data Warehousing
-- Data Engineering
-- Machine Learning
-- Time Series Forecasting
-- Business Intelligence Dashboards
-- Generative AI Applications
+⭐ If any of this is useful, a star on the repos is always appreciated.
 
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/yachana-choudhary/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:yachanachoudhary8@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/yachanachoudhary">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-> "Without data, you're just another person with an opinion." — W. Edwards Deming
-
----
-
-⭐ If you like my work, consider starring my repositories!
+</div>
