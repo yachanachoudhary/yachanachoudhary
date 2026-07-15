@@ -52,7 +52,6 @@ I turn messy data into decisions — through analytics, dashboards, forecasting 
 
 **Business Intelligence**
 <br>
-<img src="https://skillicons.dev/icons?i=powerbi,tableau" />
 `Advanced Excel` `Dashboard Design`
 
 **Data Engineering & Tools**
@@ -81,7 +80,7 @@ I turn messy data into decisions — through analytics, dashboards, forecasting 
 | 📉 **[Hyperliquid Sentiment Analysis](https://github.com/yachanachoudhary/Hyperliquid-Sentiment-Analysis)** | Sentiment analysis on crypto market data | `Python` `NLP` |
 | 🩺 **Kaggle Playground S6E7 — Student Health Risk** *(in progress)* | LightGBM baseline with 5-fold StratifiedKFold + balanced class weighting, paired with an interactive Plotly dashboard | `LightGBM` `Plotly` `scikit-learn` |
 
-> Swap in dashboard screenshots under each repo for extra impact. `research-project` is kept private and isn't linked here.
+
 
 ---
 
